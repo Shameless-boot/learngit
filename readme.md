@@ -4,7 +4,7 @@
 
 # Git has a mutable index called stage.
 
-# Git track changes of file.
+# Git track changes.
 
 
 
